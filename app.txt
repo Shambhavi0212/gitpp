@@ -1,1 +1,2 @@
 p1:v1
+p1:dev setup
