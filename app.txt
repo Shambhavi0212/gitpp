@@ -1,5 +1,7 @@
 
 p1:v1
-p1:dev setup
+p1:dev setup by login
 p2:added login feature
 p3: added home page
+p3:added home ui and nav
+p8:testing feature
